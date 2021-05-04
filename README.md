@@ -15,7 +15,7 @@ Links to individual lecture videos for the course:
 Lecture 1: Introduction to Deep Learning and Self-Driving Cars (covered)
 https://youtu.be/1L0TKZQcUtA​
 
-Lecture 2: Deep Reinforcement Learning for Motion Planning
+Lecture 2: Deep Reinforcement Learning for Motion Planning (covered)
 https://youtu.be/QDzM8r3WgBw​
 
 Lecture 3: Convolutional Neural Networks for End-to-End Learning of the Driving Task 
