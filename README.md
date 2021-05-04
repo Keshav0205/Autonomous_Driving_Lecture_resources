@@ -18,7 +18,7 @@ https://youtu.be/1L0TKZQcUtA​
 Lecture 2: Deep Reinforcement Learning for Motion Planning (covered)
 https://youtu.be/QDzM8r3WgBw​
 
-Lecture 3: Convolutional Neural Networks for End-to-End Learning of the Driving Task 
+Lecture 3: Convolutional Neural Networks for End-to-End Learning of the Driving Task (covered)
 https://youtu.be/U1toUkZw6VI​
 
 Lecture 4: Recurrent Neural Networks for Steering through Time 
