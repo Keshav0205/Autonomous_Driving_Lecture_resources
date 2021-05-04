@@ -5,14 +5,14 @@ A) Autonomous vehicles
 
 Introductory:
 
-1.Self-Driving Fundamentals: Featuring Apollo -
+1.Self-Driving Fundamentals: Featuring Apollo - (covered)
 https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419
 
 2.YouTube Lecture's held by Lex Fridman at MIT on self driving cars -
 
 Links to individual lecture videos for the course:
 
-Lecture 1: Introduction to Deep Learning and Self-Driving Cars
+Lecture 1: Introduction to Deep Learning and Self-Driving Cars (covered)
 https://youtu.be/1L0TKZQcUtA​
 
 Lecture 2: Deep Reinforcement Learning for Motion Planning
