@@ -46,7 +46,7 @@ Intermediate:
 1.Autoware coursework on self driving cars-
 https://www.autoware.org/awf-course
 
-B) Deep learning & Reinforcement learning
+B) Deep learning & Reinforcement learning (covered)
 1. Deep learrning specialization by Andrew Ng on coursera-
 https://www.coursera.org/specializations/deep-learning
 
